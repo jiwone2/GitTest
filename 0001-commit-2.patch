@@ -1,0 +1,24 @@
+From 1366d64a423dacaecf2c200b2598f725e5dd8196 Mon Sep 17 00:00:00 2001
+From: jiwone2 <77wldnjsdl77@naver.com>
+Date: Mon, 11 Jul 2022 19:06:15 +0900
+Subject: [PATCH] commit-2
+
+---
+ gittest1/src/com/sist/test/Main.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/gittest1/src/com/sist/test/Main.java b/gittest1/src/com/sist/test/Main.java
+index 876d756..d68b1a9 100644
+--- a/gittest1/src/com/sist/test/Main.java
++++ b/gittest1/src/com/sist/test/Main.java
+@@ -5,6 +5,7 @@ public class Main {
+ 	public static void main(String[] args) {
+ 		// TODO Auto-generated method stub
+ 		System.out.println("hello");
++		System.out.println("hello");
+ 	}
+ 
+ }
+-- 
+2.37.0.windows.1
+
